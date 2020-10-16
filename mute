@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T19:33:26.902Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_jl6t6--Q5MiQAvb8BKY" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T19:36:00.821Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="G3K6qfhiVO-T3qAQf6Nc" version="13.8.0" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="827.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-8" value="" style="endArrow=classic;html=1;exitX=0.949;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-6" target="AdnvZ_5z5LbDe0-nzdnU-2" edge="1">
+        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-8" value="" style="endArrow=classic;html=1;exitX=0.949;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-6" target="AdnvZ_5z5LbDe0-nzdnU-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="777.5" y="400" as="sourcePoint" />
             <mxPoint x="827.5" y="350" as="targetPoint" />
@@ -61,7 +61,7 @@
         <mxCell id="AdnvZ_5z5LbDe0-nzdnU-14" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Check&amp;nbsp; new gesture is &lt;br&gt;still a mute&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="370" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-19" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-14" edge="1">
+        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-19" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="390" as="sourcePoint" />
             <mxPoint x="810" y="190" as="targetPoint" />
@@ -81,7 +81,7 @@
         <mxCell id="AdnvZ_5z5LbDe0-nzdnU-21" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Check the hand positions&lt;br&gt;&amp;nbsp;are stable&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="480" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-23" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-21" target="AdnvZ_5z5LbDe0-nzdnU-11" edge="1">
+        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-23" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-21" target="AdnvZ_5z5LbDe0-nzdnU-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="390" as="sourcePoint" />
             <mxPoint x="840" y="340" as="targetPoint" />
@@ -121,7 +121,7 @@
         <mxCell id="AdnvZ_5z5LbDe0-nzdnU-38" value="Check still is &lt;br&gt;a gesture of Mute" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;fontFamily=Verdana;fontSize=8;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="750" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-40" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-38" target="AdnvZ_5z5LbDe0-nzdnU-32" edge="1">
+        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-40" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-38" target="AdnvZ_5z5LbDe0-nzdnU-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="673" y="790" as="sourcePoint" />
             <mxPoint x="830" y="630" as="targetPoint" />
@@ -134,7 +134,7 @@
         <mxCell id="AdnvZ_5z5LbDe0-nzdnU-41" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="770" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-43" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-38" edge="1">
+        <mxCell id="AdnvZ_5z5LbDe0-nzdnU-43" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="AdnvZ_5z5LbDe0-nzdnU-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="540" as="sourcePoint" />
             <mxPoint x="810" y="380" as="targetPoint" />
