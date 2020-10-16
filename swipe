@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T20:49:23.361Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="FGpLOVfRQt2RJSqzpmJi" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T21:24:26.678Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="I-rZJNzIRb6F-WX7fCC_" version="13.8.0" type="github">
   <diagram id="q8a91nJGCv1xwOvD7fpA" name="Page-1">
-    <mxGraphModel dx="677" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
             <mxPoint x="608" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-81" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is a jump-hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-81" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is a jump-hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="560" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-84" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mA3dzGdQ4bXZKc1Mv1uq-81">
@@ -272,10 +272,10 @@
         <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-96" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="265" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-97" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is No-Hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-97" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is No-Hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="960" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-98" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last 6 hands are No-Hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-98" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last 6 hands are No-Hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="860" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-99" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mA3dzGdQ4bXZKc1Mv1uq-94" target="mA3dzGdQ4bXZKc1Mv1uq-98">
@@ -334,7 +334,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-108" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is a jump-hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-108" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Last hand is a jump-hand&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="1060" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mA3dzGdQ4bXZKc1Mv1uq-109" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
