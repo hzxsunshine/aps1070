@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T21:24:17.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="URE0fxVfC5hsElt5eNXl" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T13:33:32.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gpU7XPSWXos6kpR0IL2Q" version="13.8.0" type="github">
   <diagram id="MDxTsq705gD6jm9Qn5dK" name="Page-1">
-    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
         <mxCell id="jKKEeO2uttPAVGnPq3_B-35" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="665" y="450" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jKKEeO2uttPAVGnPq3_B-36" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is new hand moving fast?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="jKKEeO2uttPAVGnPq3_B-36" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is new hand moving fast?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="595" y="485" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jKKEeO2uttPAVGnPq3_B-37" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="1" source="jKKEeO2uttPAVGnPq3_B-36" edge="1">
@@ -102,7 +102,7 @@
             <mxPoint x="655" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jKKEeO2uttPAVGnPq3_B-40" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is hand staying &amp;lt; 100ms&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="jKKEeO2uttPAVGnPq3_B-40" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is hand staying &amp;lt; 100ms&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="595" y="595" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jKKEeO2uttPAVGnPq3_B-41" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" parent="1" vertex="1">
@@ -209,7 +209,7 @@
             <mxPoint x="663" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jKKEeO2uttPAVGnPq3_B-66" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is new hand larger?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="jKKEeO2uttPAVGnPq3_B-66" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Is new hand larger?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="595" y="1145" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jKKEeO2uttPAVGnPq3_B-67" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" parent="1" vertex="1">
